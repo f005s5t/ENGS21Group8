@@ -129,7 +129,7 @@ void loop() {
         { 
          client.print("GET /pushingbox?devid=" + devid
        + "&canCount=" + (String) canCount
-       + "&celData="      + (String) AluminumPrestate
+       + "&aluCount="      + (String) AluminumPrestate
          );
 
               // HTTP 1.1 provides a persistent connection, allowing batched requests
