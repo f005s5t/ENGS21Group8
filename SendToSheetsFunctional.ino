@@ -31,8 +31,8 @@ const char WEBSITE[] = "api.pushingbox.com"; //pushingbox API server
 const String devid = "v699139878AAC62C"; //device ID on Pushingbox for our Scenario
 
 const char* ssid = "eduroam";
-const char* user =  "f005s5t";
-const char* pass =  "Pumpkin12!";
+const char* user =  ""; //eduroam username
+const char* pass =  "!"; //eduroam password
 
 
 // if you don't want to use DNS (and reduce your sketch size)
